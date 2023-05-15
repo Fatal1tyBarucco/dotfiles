@@ -1,0 +1,12 @@
+[General]
+Default Identity=1343878319
+
+[Identity #0]
+Default Domain=archlinux
+Disable Fcc=false
+Identity=Sem nome
+Image Location=
+Inline Signature=
+Override Encryption Defaults=false
+Signature Enabled=false
+uoid=1343878319

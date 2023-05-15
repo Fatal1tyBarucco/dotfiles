@@ -1,0 +1,48 @@
+2023-01-11 14:40:40.055 [info] Started initializing default profile extensions in extensions installation folder. file:///home/barucco/.vscode/extensions
+2023-01-11 14:40:40.255 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/barucco/.vscode/extensions
+2023-01-11 14:41:11.928 [error] net::ERR_TIMED_OUT: Error: net::ERR_TIMED_OUT
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:105:7047)
+    at SimpleURLLoaderWrapper.emit (node:events:526:28)
+2023-01-11 14:41:13.359 [error] RequestService#request (browser) - error https://vscodeexperiments.azureedge.net/experiments/vscode-experiments.json {}
+2023-01-11 14:41:42.862 [info] Settings Sync: Updated current session f8cdef31-a31e-4b4a-93e4-5f571e91255a/1:live.com:00037FFE8852D91E/ac073e40-5edc-4d19-ab9a-edfe598c3119
+2023-01-11 14:41:57.119 [error] [ajinkya-hingne.salesforce-snippets]: Unknown language in `contributes.salesforce-snippets.language`. Provided value: apex
+2023-01-11 14:41:59.801 [error] Extension 'tabnine.tabnine-vscode' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-01-11 14:41:59.916 [error] [Extension Host] /bin/sh: linha 1: hostname: comando não encontrado
+2023-01-11 14:42:15.970 [error] [ajinkya-hingne.salesforce-snippets]: Unknown language in `contributes.salesforce-snippets.language`. Provided value: apex
+2023-01-11 14:42:20.082 [error] [Extension Host] (node:19717) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+2023-01-11 14:42:22.884 [error] [ajinkya-hingne.salesforce-snippets]: Unknown language in `contributes.salesforce-snippets.language`. Provided value: apex
+2023-01-11 14:42:24.494 [error] [ajinkya-hingne.salesforce-snippets]: Unknown language in `contributes.salesforce-snippets.language`. Provided value: apex
+2023-01-11 14:42:27.574 [error] [Extension Host] Error: Binary request timed out. {"Features":{}}
+    at Timeout._onTimeout (/home/barucco/.vscode/extensions/tabnine.tabnine-vscode-3.6.35/out/extension.js:17:33014)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2023-01-11 14:42:27.574 [error] [Extension Host] Error: Could not get enabled capabilities
+    at Object.t.getCapabilities (/home/barucco/.vscode/extensions/tabnine.tabnine-vscode-3.6.35/out/extension.js:17:44496)
+    at l (/home/barucco/.vscode/extensions/tabnine.tabnine-vscode-3.6.35/out/extension.js:17:51467)
+2023-01-11 14:42:32.730 [error] [Extension Host] Error: Binary request timed out. {"State":{}}
+    at Timeout._onTimeout (/home/barucco/.vscode/extensions/tabnine.tabnine-vscode-3.6.35/out/extension.js:17:33014)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2023-01-11 14:42:34.069 [warning] [Vue.volar]: Cannot register 'typescript.tsdk'. This property is already registered.
+2023-01-11 14:42:35.819 [error] [Extension Host] validating /home/barucco/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.4.219/x86_64-unknown-linux-musl/TabNine timeout
+2023-01-11 14:42:41.571 [error] [Extension Host] Error: Binary request timed out. {"Features":{}}
+    at Timeout._onTimeout (/home/barucco/.vscode/extensions/tabnine.tabnine-vscode-3.6.35/out/extension.js:17:33014)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2023-01-11 14:42:41.572 [error] [Extension Host] Error: Could not get enabled capabilities
+    at Object.t.getCapabilities (/home/barucco/.vscode/extensions/tabnine.tabnine-vscode-3.6.35/out/extension.js:17:44496)
+    at l (/home/barucco/.vscode/extensions/tabnine.tabnine-vscode-3.6.35/out/extension.js:17:51467)
+2023-01-11 14:42:42.571 [error] [Extension Host] Error: Binary request timed out. {"StartupActions":{}}
+    at Timeout._onTimeout (/home/barucco/.vscode/extensions/tabnine.tabnine-vscode-3.6.35/out/extension.js:17:33014)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2023-01-11 14:42:43.572 [error] [Extension Host] Error: Binary request timed out. {"Notifications":{}}
+    at Timeout._onTimeout (/home/barucco/.vscode/extensions/tabnine.tabnine-vscode-3.6.35/out/extension.js:17:33014)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2023-01-11 14:42:44.956 [error] [Extension Host] Error: Binary request timed out. {"State":{}}
+    at Timeout._onTimeout (/home/barucco/.vscode/extensions/tabnine.tabnine-vscode-3.6.35/out/extension.js:17:33014)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2023-01-11 14:43:02.868 [warning] [redhat.vscode-xml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.

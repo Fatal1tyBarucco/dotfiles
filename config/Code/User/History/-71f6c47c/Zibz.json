@@ -1,0 +1,20 @@
+{
+    "tabnine.experimentalAutoImports": true,
+    "editor.matchBrackets": false,
+    "yaml.schemas": {
+        "file:///home/fatal1ty/.vscode/extensions/atlassian.atlascode-2.10.12/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "redhat.telemetry.enabled": true,
+    "workbench.startupEditor": "none",
+    "vsicons.dontShowNewVersionMessage": true,
+    "salesforcedx-vscode-apex.java.home": "/usr/lib/jvm/java-17-openjdk",
+    "terminal.integrated.fontSize": 12,
+    "apexPMD.jrePath": "/usr/lib/jvm/java-17-openjdk",
+    "salesforcedx-vscode-apex.enable-semantic-errors": true,
+    "editor.fontFamily": "MesloLGS NF, Regular",
+    "workbench.colorTheme": "Monokai",
+    "editor.fontSize": 13,
+    "terminal.integrated.fontFamily": "MesloLGS NF, Regular, Fira Code, monospace",
+    "explorer.confirmDelete": false,
+    "workbench.iconTheme": "vscode-icons"
+}

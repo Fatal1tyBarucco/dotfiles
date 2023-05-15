@@ -1,0 +1,6 @@
+[
+    {
+        "key": "ctrl+k",
+        "command": "editor.action.reindentlines"
+    }
+]

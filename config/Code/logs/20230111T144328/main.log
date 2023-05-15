@@ -1,0 +1,8 @@
+2023-01-11 14:43:28.900 [info] update#setState idle
+2023-01-11 14:43:29.721 [info] Starting extension host with pid 21688 (fork() took 33 ms).
+2023-01-11 14:43:58.901 [info] update#setState checking for updates
+2023-01-11 14:43:59.102 [info] update#setState idle
+2023-01-11 14:45:58.753 [info] update#setState checking for updates
+2023-01-11 14:45:58.957 [info] update#setState idle
+2023-01-11 14:46:52.595 [info] Waiting for extension host with pid 21688 to exit.
+2023-01-11 14:46:53.310 [info] Extension host with pid 21688 exited with code: 0, signal: null.
