@@ -24,7 +24,7 @@ updates:
   - package-ecosystem: "composer"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "daily"
     allow:
       # Allow both direct and indirect updates for all packages
       - dependency-type: "all"
@@ -32,7 +32,7 @@ updates:
   - package-ecosystem: "bundler"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "daily"
     allow:
       # Allow both direct and indirect updates for all packages
       - dependency-type: "all"
@@ -40,7 +40,7 @@ updates:
   - package-ecosystem: "cargo"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "daily"
     allow:
       # Allow both direct and indirect updates for all packages
       - dependency-type: "all"
@@ -48,14 +48,14 @@ updates:
   - package-ecosystem: "devcontainers"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "daily"
     allow:
       # Allow both direct and indirect updates for all packages
       - dependency-type: "all"
   - package-ecosystem: "mix"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "daily"
     allow:
       # Allow both direct and indirect updates for all packages
       - dependency-type: "all"
@@ -63,7 +63,7 @@ updates:
   - package-ecosystem: "elm"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "daily"
     allow:
       # Allow both direct and indirect updates for all packages
       - dependency-type: "all"
@@ -71,7 +71,7 @@ updates:
   - package-ecosystem: "gomod"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "daily"
     allow:
       # Allow both direct and indirect updates for all packages
       - dependency-type: "all"
@@ -79,7 +79,7 @@ updates:
   - package-ecosystem: "nuget"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "daily"
     allow:
       # Allow both direct and indirect updates for all packages
       - dependency-type: "all"
@@ -87,7 +87,7 @@ updates:
   - package-ecosystem: "pip"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "daily"
     allow:
       # Allow both direct and indirect updates for all packages
       - dependency-type: "all"
@@ -95,7 +95,7 @@ updates:
   - package-ecosystem: "pub"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "daily"
     allow:
       # Allow both direct and indirect updates for all packages
       - dependency-type: "all"
@@ -103,7 +103,7 @@ updates:
   - package-ecosystem: ""
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "daily"
     allow:
       # Allow both direct and indirect updates for all packages
       - dependency-type: "all"
@@ -111,7 +111,7 @@ updates:
   - package-ecosystem: "swift"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "daily"
     allow:
       # Allow both direct and indirect updates for all packages
       - dependency-type: "all"
@@ -119,7 +119,7 @@ updates:
   - package-ecosystem: "terraform"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "daily"
     allow:
       # Allow both direct and indirect updates for all packages
       - dependency-type: "all"
