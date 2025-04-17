@@ -48,8 +48,8 @@ jobs:
         with:
           node-version: 16
 
-      - name: Install Dependencies
-        run: npm install --legacy-peer-deps
+      # - name: Install Dependencies
+      # run: npm install --legacy-peer-deps
 
         env:
           # This is where you will need to introduce the Snyk API token created with your Snyk account
