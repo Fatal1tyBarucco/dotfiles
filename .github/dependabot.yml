@@ -100,14 +100,6 @@ updates:
       # Allow both direct and indirect updates for all packages
       - dependency-type: "all"
 
-  - package-ecosystem: ""
-    directory: "/"
-    schedule:
-      interval: "daily"
-    allow:
-      # Allow both direct and indirect updates for all packages
-      - dependency-type: "all"
-
   - package-ecosystem: "swift"
     directory: "/"
     schedule:
